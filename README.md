@@ -2,6 +2,13 @@
 
 An advanced AI Model Video Generator and Editing Studio built in Kotlin with Jetpack Compose. Generates professional-grade long-form videos (30 to 40+ minutes), multi-act narrative chapters, custom 4K YouTube/VOD thumbnails, real-time procedural shaders, audio-reactive spectrum visualizers, and 4K/8K export capabilities powered by the NVIDIA Nemotron-3 Super 120B model.
 
+## 🚀 Download Pre-Built APK
+
+You can download and install the Android app directly using either option:
+
+1. **Direct Repository Download**: [Download `ai-video-coder-pro.apk`](apk/ai-video-coder-pro.apk)
+2. **GitHub Releases (v1.0.0)**: [Download from Releases Asset](https://github.com/bageltrade/ai-video-coder-pro/releases/download/v1.0.0/ai-video-coder-pro-v1.0.0.apk)
+
 ## Features
 
 - **30 to 40-Minute Long-Form Architecture**: Multi-act chapter pipelines (Genesis, Collision, Megastructure, Biosphere, Omniverse) with 12–16 sequential scenes, synchronized narrative subtitles, and seamless transitions.

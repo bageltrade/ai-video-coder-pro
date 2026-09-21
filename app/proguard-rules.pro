@@ -18,4 +18,14 @@
 
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
-#-renamesourcefileattribute SourceFile
+-keepattributes *Annotation*
+-keepclassmembers class * {
+    @com.squareup.moshi.* <fields>;
+    @com.squareup.moshi.* <methods>;
+}
+-keep class com.example.data.model.** { *; }
+-keep class com.example.data.remote.** { *; }
+-keep class com.example.data.local.** { *; }
+-dontwarn com.squareup.moshi.**
+-dontwarn okio.**
+-dontwarn retrofit2.**
