@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Coder",
+  "description": "Full AI model video generator coder generating professional-grade 30-40 minute long videos, multi-act chapter pipelines, custom 4K thumbnails, audio visualizer, and 4K/8K exports powered by NVIDIA Nemotron.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
